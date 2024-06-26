@@ -1,0 +1,18 @@
+body{
+    background-image: url(/site/images/backsp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+.card_block{
+    display: flex;
+    flex-direction: row;
+    margin-top: 125px;
+}
+
+.card{
+    margin: 30px;
+    font-family: 'Montserrat', sans-serif;
+}

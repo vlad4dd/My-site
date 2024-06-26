@@ -1,0 +1,28 @@
+body{
+    background-image: url('/site/images/thirdpagesbg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.card_block{
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+.card_block div{
+    margin: 20px 0px;
+    box-sizing: border-box;
+    font-size: x-large;
+    color: white;
+}
+
+.card_bg{
+    background-color: rgba(0, 0, 0, 0.7); 
+
+}
